@@ -21,7 +21,7 @@ Sub challenge_2()
     Dim quarterly_change As Double
     Dim percent_change As Double
     
-    ' Asegúrate de que las celdas se reinicien para cada hoja
+    
     Range("J2:M2").ClearContents
     Range("P2:Q5").ClearContents
    
